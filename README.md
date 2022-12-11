@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=DCA4FF&background=14132600&center=false&vCenter=true&width=800&lines=Hi%2C+I'm+John+%F0%9F%91%8B;I'm+a+%F0%9F%92%BB+Web+Developer;Nice+to+meet+you+%F0%9F%98%83.)](https://git.io/typing-svg)
 <hr />
 
-### About me
+## About me
 
 <!-- - 💻 **MERN** stack dev
 
@@ -41,14 +41,14 @@ const john = {
 ```
 <a href=""><img src="images/dev.png" width="40%" height="auto" align="right" /></a>
 
-### Connect with me
+## Connect with me
 
 [![Linkedin: john-sebastian-839056237](https://img.shields.io/badge/-John_Sebastian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/john-sebastian-839056237/)](https://www.linkedin.com/in/john-sebastian-839056237/)
 [![Gmail: john-sebastian-839056237](https://img.shields.io/badge/-John_Sebastian-white?style=flat-square&logo=GMail&logoColor=red&link=mailto:email.johnsebastian@gmail.com)](mailto:email.johnsebastian@gmail.com)
 [![GitHub CapedBaldie](https://img.shields.io/github/followers/CapedBaldie?label=follow&style=social)](https://github.com/CapedBaldie)
 <br />
 
-###  Technologies and Tools
+##  Technologies and Tools
 <p align="left"> 
 	<code> <img height="25" width="25" src="images/react.svg" /> </code>
 	<code> <img height="25" width="25" src="images/nodejs.svg" />  </code>
@@ -66,7 +66,7 @@ const john = {
 </p>  
 <br />
   
-### Github Stats
+## Github Stats
 
 <details>
   <summary>📊 GitHub Profile Stats</summary>
