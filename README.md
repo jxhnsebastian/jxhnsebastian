@@ -39,7 +39,7 @@ const john = {
 	contact: "email\[dot\]johnsebastian\[at\]gmail\[dot\]com",
 }
 ```
-<a href=""><img src="images/dev.png" width="40%" height="auto" align="right" /></a>
+<a href="https://github.com/CapedBaldie"><img src="images/dev.png" width="40%" height="auto" align="right" /></a>
 
 ## Connect with me
 
