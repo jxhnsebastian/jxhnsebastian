@@ -53,16 +53,16 @@ const john = {
 	 <img height="25" width="25" src="images/react.svg" /> 
 	 <img height="25" width="25" src="images/nodejs.svg" />  
 	 <img height="25" width="25" src="images/mongodb.svg" /> 
-	<code> <img height="25" width="25" src="images/express.svg" /> </code>
-	<code> <img height="25" width="25" src="images/js.svg" /> </code>
-	<code> <img height="25" width="25" src="images/typescript.svg" /> </code>
-	<code> <img height="25" width="25" src="images/java.svg" /> </code>
-	<code> <img height="25" width="25" src="images/python.svg" /> </code>
-	<code> <img height="25" width="25" src="images/c.svg" /> </code>
-	<code> <img height="25" width="25" src="images/git.svg" /> </code>
-	<code> <img height="25" width="25" src="images/html5.svg" /> </code>
-	<code> <img height="25" width="25" src="images/css3.svg" /> </code>
-	<code> <img height="25" width="25" src="images/linux.svg" /> </code>
+	 <img height="25" width="25" src="images/express.svg" /> 
+	 <img height="25" width="25" src="images/js.svg" /> 
+	 <img height="25" width="25" src="images/typescript.svg" /> 
+	 <img height="25" width="25" src="images/java.svg" /> 
+	 <img height="25" width="25" src="images/python.svg" /> 
+	 <img height="25" width="25" src="images/c.svg" /> 
+	 <img height="25" width="25" src="images/git.svg" /> 
+	 <img height="25" width="25" src="images/html5.svg" /> 
+	 <img height="25" width="25" src="images/css3.svg" /> 
+	 <img height="25" width="25" src="images/linux.svg" /> 
 </p>  
 <br />
   
