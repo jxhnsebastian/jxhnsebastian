@@ -50,9 +50,9 @@ const john = {
 
 ##  Technologies and Tools
 <p align="left"> 
-	<code> <img height="25" width="25" src="images/react.svg" /> </code>
-	<code> <img height="25" width="25" src="images/nodejs.svg" />  </code>
-	<code> <img height="25" width="25" src="images/mongodb.svg" /> </code>
+	 <img height="25" width="25" src="images/react.svg" /> 
+	 <img height="25" width="25" src="images/nodejs.svg" />  
+	 <img height="25" width="25" src="images/mongodb.svg" /> 
 	<code> <img height="25" width="25" src="images/express.svg" /> </code>
 	<code> <img height="25" width="25" src="images/js.svg" /> </code>
 	<code> <img height="25" width="25" src="images/typescript.svg" /> </code>
