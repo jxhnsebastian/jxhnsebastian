@@ -39,13 +39,13 @@ const john = {
 	contact: "email\[dot\]johnsebastian\[at\]gmail\[dot\]com",
 }
 ```
-<a href="https://github.com/CapedBaldie"><img src="images/dev.png" width="40%" height="auto" align="right" /></a>
+<a href="https://github.com/jxhnsebastian"><img src="images/dev.png" width="40%" height="auto" align="right" /></a>
 
 ## Connect with me
 
 [![Linkedin: john-sebastian-839056237](https://img.shields.io/badge/-John_Sebastian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/john-sebastian-839056237/)](https://www.linkedin.com/in/john-sebastian-839056237/)
 [![Gmail: john-sebastian-839056237](https://img.shields.io/badge/-John_Sebastian-white?style=flat-square&logo=GMail&logoColor=red&link=mailto:email.johnsebastian@gmail.com)](mailto:email.johnsebastian@gmail.com)
-[![GitHub CapedBaldie](https://img.shields.io/github/followers/CapedBaldie?label=follow&style=social)](https://github.com/CapedBaldie)
+[![GitHub jxhnsebastian](https://img.shields.io/github/followers/jxhnsebastian?label=follow&style=social)](https://github.com/jxhnsebastian)
 <br />
 
 ##  Technologies and Tools
@@ -71,13 +71,13 @@ const john = {
 <details>
   <summary>📊 GitHub Profile Stats</summary>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="CapedBaldie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CapedBaldie&show_icons=true&count_private=true&locale=en&layout=compact&theme=shades-of-purple&hide_border=true" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="jxhnsebastian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jxhnsebastian&show_icons=true&count_private=true&locale=en&layout=compact&theme=shades-of-purple&hide_border=true" /></a>
 </details>
 
 <details> 
   <summary>💻 Most used languages</summary>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="CapedBaldie's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CapedBaldie&langs_count=10&layout=compact&theme=shades-of-purple&hide_border=true" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="jxhnsebastian's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jxhnsebastian&langs_count=10&layout=compact&theme=shades-of-purple&hide_border=true" /></a>
   <br/>
   <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
 </details>
@@ -85,13 +85,13 @@ const john = {
 <details>
   <summary>⚡GitHub Streak</summary>
   <br/>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="CapedBaldie's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CapedBaldie&theme=shades-of-purple&hide_border=true" /></a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="jxhnsebastian's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jxhnsebastian&theme=shades-of-purple&hide_border=true" /></a>
 </details>
 
 <details>
   <summary>📈GitHub Activity</summary>
   <br/>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="CapedBaldie's GitHub Activity" src="https://github-readme-activity-graph.cyclic.app/graph?username=CapedBaldie&bg_color=141326&color=9e4c98&line=a97aae&point=403d3d&area=true&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="jxhnsebastian's GitHub Activity" src="https://github-readme-activity-graph.cyclic.app/graph?username=jxhnsebastian&bg_color=141326&color=9e4c98&line=a97aae&point=403d3d&area=true&hide_border=true" /></a>
 </details>
 <br />
 
@@ -99,7 +99,7 @@ Bye<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/H
 
 
 <!--
-**CapedBaldie/CapedBaldie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jxhnsebastian/jxhnsebastian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
