@@ -25,7 +25,7 @@
 <div class="About Me"></div>
 
 const john = {
-	occupation: "MERN stack dev",
+	occupation: "full stack dev",
 	exploring: [
 		"AI", "web3", "Solana", "Rust"
 	],
