@@ -1,5 +1,5 @@
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=500&color=C9C9C9&background=14132600&center=false&vCenter=true&width=800&lines=Hi%2C+I'm+John+%F0%9F%91%8B;I'm+a+%F0%9F%92%BB+Web+Developer;Nice+to+meet+you+%F0%9F%98%83.)](https://git.io/typing-svg) -->
-Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px">
+## Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">
 <hr />
 
 ## About me
