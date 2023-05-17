@@ -35,7 +35,7 @@ const john = {
 		college: "BITS Goa | Electronics and Instrumentation Engineering",
 	},
 	interests: [
-		"movies", "basketball", "cats"
+		"film", "basketball"
 	],
 	contact: "email\[dot\]johnsebastian\[at\]gmail\[dot\]com",
 }
