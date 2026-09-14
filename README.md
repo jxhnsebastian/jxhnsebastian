@@ -44,7 +44,7 @@ const john = {
 
 ## Connect with me
 
-[![Linkedin: john-sebastian-839056237](https://img.shields.io/badge/-John_Sebastian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/john-sebastian-839056237/)](https://www.linkedin.com/in/john-sebastian-839056237/)
+[![Linkedin: jxhnsebaastian](https://img.shields.io/badge/-John_Sebastian-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/jxhnsebastian/)](https://www.linkedin.com/in/jxhnsebastian/)
 [![Gmail: john-sebastian-839056237](https://img.shields.io/badge/-John_Sebastian-white?style=flat-square&logo=GMail&logoColor=red&link=mailto:email.johnsebastian@gmail.com)](mailto:email.johnsebastian@gmail.com)
 [![GitHub jxhnsebastian](https://img.shields.io/github/followers/jxhnsebastian?label=follow&style=social)](https://github.com/jxhnsebastian)
 <br />
