@@ -1,5 +1,3 @@
-`jxhnsebastian / README.md`
-
 ## hey, i'm john
 
 i'm an engineer focused on building thoughtful web products.
